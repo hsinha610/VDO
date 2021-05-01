@@ -38,6 +38,12 @@ TODO:
     
     10. Setup Profile Page.
 
-<img src=https://drive.google.com/drive/u/0/folders/1tPK8MgI2j_jv8r8A2L2CpTz-snHGHQax width="200" height="400"/>
+<img src=https://github.com/hsinha610/VDO/blob/master/Screenshot_20210501-165740.jpg width="200" height="400"/>
+
+<img src=https://github.com/hsinha610/VDO/blob/master/Screenshot_20210501-165755.jpg width="200" height="400"/>
+
+<img src=https://github.com/hsinha610/VDO/blob/master/Screenshot_20210501-165852.jpg width="200" height="400"/>
+
+<img src=https://github.com/hsinha610/VDO/blob/master/Screenshot_20210501-165903.jpg width="200" height="400"/>
 
 
