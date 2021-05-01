@@ -14,7 +14,7 @@ Share feature is working.
 
 To LogOut: Go to profile page by tapping the top right icon showing your initials. It will open the profile page.
 
-# Options showing SnackBar onTap are yet to be implemented.
+## Options showing SnackBar onTap are yet to be implemented.
 
 TODO:
     1. Add Backend
