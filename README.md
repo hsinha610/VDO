@@ -17,6 +17,7 @@ To LogOut: Go to profile page by tapping the top right icon showing your initial
 ## Options showing SnackBar onTap are yet to be implemented.
 
 TODO:
+
     1. Add Backend
     
     2. Implement SignUp and Login checks.
